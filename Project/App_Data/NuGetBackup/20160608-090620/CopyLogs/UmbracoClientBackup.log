@@ -1,0 +1,27 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows     ::     Version XP010
+-------------------------------------------------------------------------------
+
+  Started : Wed Jun 08 09:06:28 2016
+
+   Source : D:\Projects\Connect_Internet_Solutions\dev.liam.useconnect.co.uk\Test\DemoLeedsYork\DemoLeedsYork\Umbraco_Client\
+     Dest : D:\Projects\Connect_Internet_Solutions\dev.liam.useconnect.co.uk\Test\DemoLeedsYork\DemoLeedsYork\App_Data\NuGetBackup\20160608-090620\Umbraco_Client\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	D:\Projects\Connect_Internet_Solutions\dev.liam.useconnect.co.uk\Test\DemoLeedsYork\DemoLeedsYork\Umbraco_Client\
+
+------------------------------------------------------------------------------
+
+                Total    Copied   Skipped  Mismatch    FAILED    Extras
+     Dirs :         1         0         1         0         0         0
+    Files :         0         0         0         0         0         0
+    Bytes :         0         0         0         0         0         0
+    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+    Ended : Wed Jun 08 09:06:28 2016

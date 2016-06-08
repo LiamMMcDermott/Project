@@ -17,7 +17,3 @@
 
 # ImageProcessor DiskCache 
 **/App_Data/cache/
-
-#ignore nuGet and restore on clone
-*/packages/*
-Project/App_Data/Umbraco.sdf

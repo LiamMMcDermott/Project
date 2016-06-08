@@ -3098,3 +3098,5 @@ _shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needF
  2016-06-08 14:28:36,489 [P87868/D52/T2182] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: liam.mcdermott@connectinternetsolutions.com logged in from IP address 10.0.1.182
  2016-06-08 14:29:36,237 [P87868/D52/T2193] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
  2016-06-08 14:29:36,237 [P87868/D52/T2193] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-06-08 14:48:07,172 [P87868/D52/T2217] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: liam.mcdermott@connectinternetsolutions.com, IP Address: 10.0.1.182
+ 2016-06-08 14:48:13,160 [P87868/D52/T2204] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: liam.mcdermott@connectinternetsolutions.com, IP Address: 10.0.1.182
